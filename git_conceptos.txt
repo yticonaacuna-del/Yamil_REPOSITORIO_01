@@ -1,0 +1,6 @@
+Git -> Sistema de control de versiones
+GitHup -> Servicio de Hosting que permite guardar nuestro código.
+
+
+
+
