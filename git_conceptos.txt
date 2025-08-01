@@ -1,6 +1,19 @@
 Git -> Sistema de control de versiones
 GitHup -> Servicio de Hosting que permite guardar nuestro código.
 
+Flujo básico => 
+    git add .
+    git commit m'DEJA UN MENSAJE' / si solo es git commit se abre el editor porque lo configuraste con ese editor.
+    
+    * La primera vez se usa git push -u origin master 
+    * Después se utiliza git push de manera normal
+
+    Descargar cambios de un repositorio al local
+    * git pull
+        
+
+
+
 
 
 
